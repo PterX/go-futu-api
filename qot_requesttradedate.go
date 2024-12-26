@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotcommon"
-	"github.com/hurisheng/go-futu-api/pb/qotrequesttradedate"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotcommon"
+	"github.com/PterX/go-futu-api/pb/qotrequesttradedate"
+	"github.com/PterX/go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 

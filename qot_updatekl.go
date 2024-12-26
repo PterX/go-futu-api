@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotupdatekl"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotupdatekl"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdateKL = 3007 //Qot_UpdateKL	推送 K 线

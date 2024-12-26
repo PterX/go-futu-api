@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/trdcommon"
-	"github.com/hurisheng/go-futu-api/pb/trdgethistoryorderlist"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/trdcommon"
+	"github.com/PterX/go-futu-api/pb/trdgethistoryorderlist"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const ProtoIDTrdGetHistoryOrderList = 2221 //Trd_GetHistoryOrderList	获取历史订单列表

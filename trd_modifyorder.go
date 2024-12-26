@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/trdcommon"
-	"github.com/hurisheng/go-futu-api/pb/trdmodifyorder"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/trdcommon"
+	"github.com/PterX/go-futu-api/pb/trdmodifyorder"
+	"github.com/PterX/go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 

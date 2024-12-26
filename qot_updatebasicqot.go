@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotupdatebasicqot"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotupdatebasicqot"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const (

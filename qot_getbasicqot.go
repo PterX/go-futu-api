@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotcommon"
-	"github.com/hurisheng/go-futu-api/pb/qotgetbasicqot"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotcommon"
+	"github.com/PterX/go-futu-api/pb/qotgetbasicqot"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const ProtoIDQotGetBasicQot = 3004 //Qot_GetBasicQot	获取股票基本报价

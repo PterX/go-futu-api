@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotupdatebroker"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotupdatebroker"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdateBroker = 3015 //Qot_UpdateBroker	推送经纪队列

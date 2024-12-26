@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotupdateticker"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotupdateticker"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdateTicker = 3011 //Qot_UpdateTicker	推送逐笔

@@ -7,15 +7,15 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/hurisheng/go-futu-api/pb/common"
-	"github.com/hurisheng/go-futu-api/pb/getdelaystatistics"
-	"github.com/hurisheng/go-futu-api/pb/getglobalstate"
-	"github.com/hurisheng/go-futu-api/pb/getuserinfo"
-	"github.com/hurisheng/go-futu-api/pb/initconnect"
-	"github.com/hurisheng/go-futu-api/pb/keepalive"
-	"github.com/hurisheng/go-futu-api/pb/notify"
-	"github.com/hurisheng/go-futu-api/pb/verification"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/common"
+	"github.com/PterX/go-futu-api/pb/getdelaystatistics"
+	"github.com/PterX/go-futu-api/pb/getglobalstate"
+	"github.com/PterX/go-futu-api/pb/getuserinfo"
+	"github.com/PterX/go-futu-api/pb/initconnect"
+	"github.com/PterX/go-futu-api/pb/keepalive"
+	"github.com/PterX/go-futu-api/pb/notify"
+	"github.com/PterX/go-futu-api/pb/verification"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const (

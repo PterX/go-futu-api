@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotgetsubinfo"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotgetsubinfo"
+	"github.com/PterX/go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 

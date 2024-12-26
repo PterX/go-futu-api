@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotupdateorderbook"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/PterX/go-futu-api/pb/qotupdateorderbook"
+	"github.com/PterX/go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdateOrderBook = 3013 //Qot_UpdateOrderBook	推送买卖盘
